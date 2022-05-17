@@ -1,4 +1,4 @@
-# XML o eXtensible markup language
+# XML o eXtensible Markup Language
 
 E' costruito dai tag come html, solo che il nome dei tag lo scelgo io, viene utilizzato per salvare i dati, simile a JSON, per poi importarli su databse, Excel, Wordpress...
 
